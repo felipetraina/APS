@@ -15,7 +15,8 @@ public class ProjetoAps {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    
+    // Urruhh conseigui sincronizar
     }
     
 }
